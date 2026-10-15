@@ -1,0 +1,112 @@
+{
+  "countries_analysed": 237,
+  "insight1": {
+    "highest_7d_cases": 6319458.428571428,
+    "highest_7d_cases_date": "2022-12-25",
+    "spike_countries_cases": {
+      "China": 84280665.0,
+      "Japan": 4213208.0,
+      "United States": 1817940.0
+    },
+    "omicron_peak_cases": 3361212.5714285714,
+    "omicron_peak_date": "2022-01-23",
+    "peak_deaths": 14810.57142857143,
+    "peak_deaths_date": "2021-01-24",
+    "spike_countries_deaths": {
+      "China": 49584.0,
+      "United States": 13492.0,
+      "Japan": 13190.0
+    },
+    "deaths_per_1000_cases_at_death_peak": 24.538672065739426,
+    "deaths_per_1000_cases_at_omicron_peak": 2.538667168073019
+  },
+  "insight2": {
+    "n_countries": 129,
+    "highest": {
+      "Peru": 4.881292747897769,
+      "Egypt": 4.8118010243729445,
+      "Mexico": 4.390745378477052,
+      "Bosnia and Herzegovina": 4.060782924496984,
+      "Afghanistan": 3.400307804807537
+    },
+    "lowest": {
+      "Brunei": 0.051477756720147934,
+      "Singapore": 0.06732853096397225,
+      "Iceland": 0.08841396750549022,
+      "South Korea": 0.10393998612687255,
+      "China": 0.12307541330627521
+    }
+  },
+  "insight3": {
+    "n_countries": 57,
+    "spearman_deaths_since_2020": -0.17101830063839252,
+    "p_spearman_deaths_since_2020": 0.2033911629028924,
+    "partial_age_deaths_since_2020": 0.06690051171537977,
+    "p_partial_deaths_since_2020": 0.624207871968109,
+    "spearman_deaths_after_start": -0.17662598941974997,
+    "p_spearman_deaths_after_start": 0.1887404199966633,
+    "partial_age_deaths_after_start": 0.07949901975036958,
+    "p_partial_deaths_after_start": 0.5602829577520564
+  },
+  "insight4": {
+    "n_countries_reaching_50": 87,
+    "min_days": 97.0,
+    "max_days": 766.0,
+    "median_days": 257.0,
+    "fastest5": {
+      "Israel": 97.0,
+      "Mongolia": 117.0,
+      "Uruguay": 124.0,
+      "Cuba": 148.0,
+      "Qatar": 150.0
+    },
+    "slowest5": {
+      "Bolivia": 566.0,
+      "Uzbekistan": 572.0,
+      "Mozambique": 624.0,
+      "Turkmenistan": 707.0,
+      "Sierra Leone": 766.0
+    }
+  },
+  "insight5": {
+    "Africa": {
+      "cases": 13145540.0,
+      "deaths": 259118.0,
+      "cases_per_million": 9213.7,
+      "deaths_per_million": 181.6
+    },
+    "Asia": {
+      "cases": 301532347.0,
+      "deaths": 1637249.0,
+      "cases_per_million": 63864.3,
+      "deaths_per_million": 346.8
+    },
+    "Europe": {
+      "cases": 252642589.0,
+      "deaths": 2099271.0,
+      "cases_per_million": 338831.4,
+      "deaths_per_million": 2815.4
+    },
+    "North America": {
+      "cases": 124492666.0,
+      "deaths": 1671178.0,
+      "cases_per_million": 207375.9,
+      "deaths_per_million": 2783.8
+    },
+    "Oceania": {
+      "cases": 15003352.0,
+      "deaths": 32918.0,
+      "cases_per_million": 333119.8,
+      "deaths_per_million": 730.9
+    },
+    "South America": {
+      "cases": 68809418.0,
+      "deaths": 1355939.0,
+      "cases_per_million": 157524.7,
+      "deaths_per_million": 3104.1
+    }
+  },
+  "insight6": {
+    "median_doubling_days_mar_apr_2020": 9.633734857864727
+  }
+}
